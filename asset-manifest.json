@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/consulta-cep/static/css/main.a72c6434.chunk.css",
+    "main.js": "/consulta-cep/static/js/main.69bff043.chunk.js",
+    "main.js.map": "/consulta-cep/static/js/main.69bff043.chunk.js.map",
+    "runtime-main.js": "/consulta-cep/static/js/runtime-main.4454e9dd.js",
+    "runtime-main.js.map": "/consulta-cep/static/js/runtime-main.4454e9dd.js.map",
+    "static/js/2.26480677.chunk.js": "/consulta-cep/static/js/2.26480677.chunk.js",
+    "static/js/2.26480677.chunk.js.map": "/consulta-cep/static/js/2.26480677.chunk.js.map",
+    "index.html": "/consulta-cep/index.html",
+    "precache-manifest.9f25f7aaeba0906d198c9342c846ee11.js": "/consulta-cep/precache-manifest.9f25f7aaeba0906d198c9342c846ee11.js",
+    "service-worker.js": "/consulta-cep/service-worker.js",
+    "static/css/main.a72c6434.chunk.css.map": "/consulta-cep/static/css/main.a72c6434.chunk.css.map",
+    "static/js/2.26480677.chunk.js.LICENSE.txt": "/consulta-cep/static/js/2.26480677.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4454e9dd.js",
+    "static/js/2.26480677.chunk.js",
+    "static/css/main.a72c6434.chunk.css",
+    "static/js/main.69bff043.chunk.js"
+  ]
+}
